@@ -1,0 +1,11 @@
+<Litepal>
+    <dbname value="cool_weather" />
+
+    <version valie="1" />
+
+    <list>
+        <mapping class="com.example.hui.coolweather.db.Province"/>
+        <mapping class="com.example.hui.coolweather.db.City"/>
+        <mapping class="com.example.hui.coolweather.db.County"/>
+    </list>
+</Litepal>
