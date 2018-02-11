@@ -1,10 +1,12 @@
 package com.example.hui.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by hui on 2018/2/11.
  */
 
-public class Province {
+public class Province extends DataSupport {
     private int id;
 
     private String proviceName;

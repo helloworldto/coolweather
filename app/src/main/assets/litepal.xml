@@ -1,7 +1,7 @@
 <Litepal>
     <dbname value="cool_weather" />
 
-    <version valie="1" />
+    <version value="1" />
 
     <list>
         <mapping class="com.example.hui.coolweather.db.Province"/>
